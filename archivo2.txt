@@ -1,3 +1,3 @@
-primera linea en archivo2
+primera linea en archivo2 ##adicional rama1
 
 linea agrega desde la rama1
