@@ -1,1 +1,3 @@
 primera linea en archivo2
+
+linea agrega desde la rama1
