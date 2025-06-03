@@ -1,4 +1,7 @@
 primera linea para repo git
-segunda linea para repo git ##cambio en master
+
+segunda linea para repo git ##cambio en master ##adicional rama1
+
+
 
 linea agregada desde la rama1

@@ -1,3 +1,6 @@
-primera linea en archivo2 #cambio en master
+
+primera linea en archivo2 #cambio en master ##adicional rama1
+
+
 
 linea agrega desde la rama1
